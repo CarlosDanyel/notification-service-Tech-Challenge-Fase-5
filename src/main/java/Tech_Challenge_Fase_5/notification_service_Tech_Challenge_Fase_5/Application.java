@@ -1,13 +1,9 @@
 package Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+import org.springframework.scheduling.annotation.EnableScheduling;
 @SpringBootApplication
-public class NotificationServiceTechChallengeFase5Application {
-
-	public static void main(String[] args) {
-		SpringApplication.run(NotificationServiceTechChallengeFase5Application.class, args);
-	}
-
+@EnableScheduling
+public class Application {
+    public static void main(String[] args) { SpringApplication.run(Application.class, args); }
 }
