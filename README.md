@@ -2,7 +2,7 @@
 
 Java 21 / Spring Boot consumer for video failure events. It sends email through SMTP and stores delivery records with `created_at` and `updated_at` in a dedicated PostgreSQL database. Event IDs prevent redelivered messages from creating a second notification after successful delivery.
 
-Java sources and tests live under `src/main/java/techchallenge/fiapx/notification` and `src/test/java/techchallenge/fiapx/notification`. The package root is `techchallenge.fiapx.notification`.
+Java sources and tests live under `src/main/java/Tech_Challenge_Fase_5/notification_service_Tech_Challenge_Fase_5` and `src/test/java/Tech_Challenge_Fase_5/notification_service_Tech_Challenge_Fase_5`. The package root is `Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5`.
 
 ## Run and test
 

@@ -1,4 +1,4 @@
-package techchallenge.fiapx.notification;
+package Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;

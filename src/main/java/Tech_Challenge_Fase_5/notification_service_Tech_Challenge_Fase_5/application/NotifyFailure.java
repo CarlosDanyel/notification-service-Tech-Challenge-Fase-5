@@ -1,7 +1,7 @@
-package techchallenge.fiapx.notification.application;
-import techchallenge.fiapx.notification.application.port.DeliveryStore;
-import techchallenge.fiapx.notification.application.port.EmailPort;
-import techchallenge.fiapx.notification.domain.FailureNotification;
+package Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.application;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.application.port.DeliveryStore;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.application.port.EmailPort;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.domain.FailureNotification;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 @Service

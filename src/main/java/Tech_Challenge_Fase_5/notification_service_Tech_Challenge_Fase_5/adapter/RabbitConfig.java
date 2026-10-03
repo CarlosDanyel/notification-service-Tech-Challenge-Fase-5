@@ -1,4 +1,4 @@
-package techchallenge.fiapx.notification.adapter;
+package Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.adapter;
 import org.springframework.amqp.core.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

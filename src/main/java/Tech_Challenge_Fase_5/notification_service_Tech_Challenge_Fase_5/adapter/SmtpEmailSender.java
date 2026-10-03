@@ -1,6 +1,6 @@
-package techchallenge.fiapx.notification.adapter;
-import techchallenge.fiapx.notification.application.port.EmailPort;
-import techchallenge.fiapx.notification.domain.FailureNotification;
+package Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.adapter;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.application.port.EmailPort;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.domain.FailureNotification;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;

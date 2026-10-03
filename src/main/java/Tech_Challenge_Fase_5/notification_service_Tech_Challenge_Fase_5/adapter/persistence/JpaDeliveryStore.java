@@ -1,6 +1,6 @@
-package techchallenge.fiapx.notification.adapter.persistence;
-import techchallenge.fiapx.notification.application.port.DeliveryStore;
-import techchallenge.fiapx.notification.domain.FailureNotification;
+package Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.adapter.persistence;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.application.port.DeliveryStore;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.domain.FailureNotification;
 import java.time.Instant;
 import java.util.UUID;
 import org.springframework.stereotype.Component;

@@ -1,7 +1,7 @@
-package techchallenge.fiapx.notification.adapter;
+package Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.adapter;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import techchallenge.fiapx.notification.application.NotifyFailure;
-import techchallenge.fiapx.notification.domain.FailureNotification;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.application.NotifyFailure;
+import Tech_Challenge_Fase_5.notification_service_Tech_Challenge_Fase_5.domain.FailureNotification;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 @Component
