@@ -1,5 +1,5 @@
-package com.fiapx.notification.application.port;
-import com.fiapx.notification.domain.FailureNotification;
+package techchallenge.fiapx.notification.application.port;
+import techchallenge.fiapx.notification.domain.FailureNotification;
 import java.util.UUID;
 public interface DeliveryStore {
     boolean wasSent(UUID eventId);

@@ -1,6 +1,6 @@
-package com.fiapx.notification.adapter;
-import com.fiapx.notification.application.port.EmailPort;
-import com.fiapx.notification.domain.FailureNotification;
+package techchallenge.fiapx.notification.adapter;
+import techchallenge.fiapx.notification.application.port.EmailPort;
+import techchallenge.fiapx.notification.domain.FailureNotification;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;

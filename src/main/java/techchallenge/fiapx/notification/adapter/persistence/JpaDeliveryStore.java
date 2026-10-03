@@ -1,6 +1,6 @@
-package com.fiapx.notification.adapter.persistence;
-import com.fiapx.notification.application.port.DeliveryStore;
-import com.fiapx.notification.domain.FailureNotification;
+package techchallenge.fiapx.notification.adapter.persistence;
+import techchallenge.fiapx.notification.application.port.DeliveryStore;
+import techchallenge.fiapx.notification.domain.FailureNotification;
 import java.time.Instant;
 import java.util.UUID;
 import org.springframework.stereotype.Component;

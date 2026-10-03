@@ -1,7 +1,7 @@
-package com.fiapx.notification.adapter;
+package techchallenge.fiapx.notification.adapter;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fiapx.notification.application.NotifyFailure;
-import com.fiapx.notification.domain.FailureNotification;
+import techchallenge.fiapx.notification.application.NotifyFailure;
+import techchallenge.fiapx.notification.domain.FailureNotification;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 @Component

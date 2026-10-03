@@ -1,4 +1,4 @@
-package com.fiapx.notification.adapter.persistence;
+package techchallenge.fiapx.notification.adapter.persistence;
 import jakarta.persistence.*;
 import java.time.Instant;
 import java.util.UUID;

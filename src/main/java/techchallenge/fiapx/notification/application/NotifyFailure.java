@@ -1,7 +1,7 @@
-package com.fiapx.notification.application;
-import com.fiapx.notification.application.port.DeliveryStore;
-import com.fiapx.notification.application.port.EmailPort;
-import com.fiapx.notification.domain.FailureNotification;
+package techchallenge.fiapx.notification.application;
+import techchallenge.fiapx.notification.application.port.DeliveryStore;
+import techchallenge.fiapx.notification.application.port.EmailPort;
+import techchallenge.fiapx.notification.domain.FailureNotification;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 @Service
